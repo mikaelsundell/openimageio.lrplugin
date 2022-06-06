@@ -1,2 +1,2 @@
 # openimageio.lrplugin
-OpenImageIO.lrplugin
+OpenImageIO plugin for Adobe Lightroom
