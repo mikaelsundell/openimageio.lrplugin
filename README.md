@@ -1,0 +1,2 @@
+# openimageio.lrplugin
+OpenImageIO.lrplugin
